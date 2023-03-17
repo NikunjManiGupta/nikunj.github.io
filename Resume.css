@@ -474,11 +474,11 @@ button:focus {
 	}
 
 	.timeline-box:nth-child(even):after{
-		left:115.5%;
+		left:116%;
 	}
 
 	.timeline-box:nth-child(odd):after{
-		right:-18.5%;
+		right:-18%;
 	}
 
 	#Myname{
