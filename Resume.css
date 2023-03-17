@@ -427,7 +427,7 @@ button:focus {
 	border-radius: 50%;
 	width: 0.5rem;
 	height: 0.5rem; 
-	left: -9.5%;
+	left: -11.5%;
 	background-color: red;
 }
 
@@ -438,7 +438,7 @@ button:focus {
 	border-radius: 50%;
 	width: 0.5rem;
 	height: 0.5rem;
-	right: -10.5%;
+	right: -12.5%;
 	background-color: red;
 }
 
