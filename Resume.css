@@ -474,7 +474,7 @@ button:focus {
 	}
 
 	.timeline-box:nth-child(even):after{
-		left:115%;
+		left:116.5%;
 	}
 
 	.timeline-box:nth-child(odd):after{
