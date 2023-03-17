@@ -427,7 +427,7 @@ button:focus {
 	border-radius: 50%;
 	width: 0.5rem;
 	height: 0.5rem; 
-	left: -10%;
+	left: -11%;
 	background-color: red;
 }
 
@@ -438,7 +438,7 @@ button:focus {
 	border-radius: 50%;
 	width: 0.5rem;
 	height: 0.5rem;
-	right: -12%;
+	right: -11%;
 	background-color: red;
 }
 
@@ -474,11 +474,11 @@ button:focus {
 	}
 
 	.timeline-box:nth-child(even):after{
-		left:116.5%;
+		left:115.5%;
 	}
 
 	.timeline-box:nth-child(odd):after{
-		right:-19%;
+		right:-18.5%;
 	}
 
 	#Myname{
